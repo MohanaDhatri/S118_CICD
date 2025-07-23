@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MohanaDhatri.github.io/S118_CICD",
+  "homepage": "https://github.com/MohanaDhatri/S118_CICD.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
